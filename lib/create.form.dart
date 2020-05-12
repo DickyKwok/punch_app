@@ -8,8 +8,6 @@ import 'package:tabs/services/contacts.dart';
 import 'package:flutter_typeahead/flutter_typeahead.dart';
 import 'package:tabs/providers/settingsState.dart';
 
-// TODO: refactor this monstrosity of a class
-
 class CreateForm extends StatefulWidget {
   @override
   _CreateFormState createState() => _CreateFormState();
